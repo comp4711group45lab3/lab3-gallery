@@ -9,16 +9,22 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 Release Date: Jan 23, 2018
 
 ## New Components
+-   model
+    - Images
 
-
-    
 ## Updated Components
 -   controllers
+    - welcome
+    - gallery
 
 -   views
-
     -gallery.php
     -about.php
     -welcome.php
-    -template.php
+
+- autoload
+    - libraries
+    - model
  
+-   gitignore
+    - database.php
